@@ -10,10 +10,9 @@
 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering.<br>
 👨‍💻 I am passionate about Web Dev, Android Dev and Machine learning & I enjoy learning new things.<br></p>
 <img src = "https://github.com/Arif-arsh/Arif-arsh/blob/main/Assets/lang&tools.gif">
-<p><img align = "left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arif-arsh&show_icons=true&locale=en&layout=compact" alt="arif-arsh" /></p>
 
+<p><img align = "left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arif-arsh&show_icons=true&locale=en&layout=compact" alt="arif-arsh" /></p>
 <p><img align = "center" src="https://github-readme-stats.vercel.app/api?username=arif-arsh&show_icons=true&locale=en" alt="arif-arsh" /></p>
-<p><img align= "center" src="https://github-readme-streak-stats.herokuapp.com/?user=arif-arsh&" alt="arif-arsh" /></p>
-<p align = "left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arif-arsh" alt="arif-arsh" /></a> </p>
+
 <p align = "left"> <img src="https://komarev.com/ghpvc/?username=arif-arsh&label=Profile%20views&color=0e75b6&style=flat" alt="arif-arsh" /> </p>
 
